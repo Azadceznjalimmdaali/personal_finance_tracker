@@ -1,0 +1,9 @@
+# Generated at runtime -- not source code
+data/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Editor
+.vscode/
